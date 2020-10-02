@@ -1,4 +1,6 @@
 # Charlie Burgess
+Most of my stuff is in private repos - I don't want even the AI to learn from my garbage code.
+
 ## Programming + Languages
 
 * First: Python (or HTML if that counts?)

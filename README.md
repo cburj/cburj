@@ -6,6 +6,7 @@
 
 ## Noteable Projects:
 * EsportsOS - an award winning Esports Event Planning application designed to help small-scale events get up and running. Developed in Larvel in only 6 months, this project was recognised by the British Computer Society (Manchester) as "Best Project" for the University of Salford's School of Sience, Engineering and Environment.
+* KAKOI - An Open-Source enclosure for a 40% Ortholinear Keyboard. Designed to be simple to assemble and result in minimal waste.
 * VIMBIUS - a lightweight collection of utilities designed to help people get to grips with VIM. Contains a large amount of company-specific functions.
 * FORGE - a simple VIM plugin that allows the building of projects without the need to leave your current file.
 
@@ -21,3 +22,7 @@
 |       GoLang      |         1        |                Small micro-services and command-line tools.               |
 |     VIM Script    |         1        |             Numerous plugins for code development assistance.             |
 |      HTML/CSS     |         6        | Creating a large number static websites and developing complex CSS rules. |
+
+## Additional Experience:
+- 6+ Years working as a free-lance 3D Artist and Graphic Designer.
+- Electronics and Product Design Experience for custom keyboard projects.

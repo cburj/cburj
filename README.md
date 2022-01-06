@@ -24,5 +24,5 @@
 |      HTML/CSS     |         6        | Creating a large number static websites and developing complex CSS rules. |
 
 ## Additional Experience:
-- 6+ Years working as a free-lance 3D Artist and Graphic Designer.
+- 6+ Years working as a free-lance 3D Artist and Graphic Designer. [Portfolio](https://behance.net/cburg)
 - Electronics and Product Design Experience for custom keyboard projects.
